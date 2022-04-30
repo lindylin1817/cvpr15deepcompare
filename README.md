@@ -1,3 +1,8 @@
+**After the torch installation and the build finish, we can start trial on this**
+
+run download_pack.sh to download networks from AWS S3
+
+
 Code for CVPR15 paper "Learning to Compare Image Patches via Convolutional Neural Networks"
 -----
 This package allows researches to apply the described networks to match image patches and extract corresponding patches.
